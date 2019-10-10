@@ -1,0 +1,79 @@
+/* Welcome.blade.php */
+html, body {
+    background-color: #fff;
+    color: #636b6f;
+    font-family: 'Bree Serif', serif;
+    font-weight: 200;
+    height: 100vh;
+    margin: 0;
+}
+
+.full-height {
+    height: 100vh;
+}
+
+.flex-center {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.position-ref {
+    position: relative;
+}
+
+.top-right {
+    position: absolute;
+    right: 10px;
+    top: 18px;
+}
+
+.content {
+    text-align: center;
+}
+
+.title {
+    font-size: 50px;
+    color: #0F6469;
+}
+
+.m-b-md {
+    margin-bottom: 5px;
+}
+
+.content-details > p {
+    font-size: 16px;
+    color: #585453;
+}
+
+.content-details > p > cite {
+    color: #199EA5;
+}
+
+.global-border {
+    margin-top: 20px;
+}   
+
+.todo-list-header {
+    font-size: 22px;
+    color: #1065B5;
+}
+
+.todo-list-item {
+    font-size: 18px;
+    color: #4283C1;
+}
+
+.error {
+    color: #C0392B;
+}
+
+.text-style {
+    color: green;
+    font-size: 14px;
+}
+
+.text-style:hover {
+    color: #2B9309;
+    font-size: 14px;
+}
